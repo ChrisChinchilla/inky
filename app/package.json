@@ -35,7 +35,7 @@
     "spectron": "^3.8.0"
   },
   "dependencies": {
-    "chokidar": "^3.3.1",
+    "chokidar": "^3.5.3",
     "fuzzaldrin-plus": "^0.5",
     "inkjs": "^2.0.0",
     "lodash": "^4.17.15",
